@@ -1,5 +1,5 @@
 # Analyzing Second-Hand Car Sales Data with Supervised and Unsupervised Learning Models
-Abstract
+# Abstract
 This project applies various machine learning techniques to analyze second-hand car sales data in the UK. The objectives are to predict car prices using regression models and identify patterns through clustering. Models such as Linear Regression, Polynomial Regression, Multiple Variable Regression, Random Forest Regression, and an Artificial Neural Network (ANN) are implemented for price prediction. K-means clustering is used to identify patterns within the data. Among the models, the Random Forest Regressor achieved the highest R² score of 0.9985. The study highlights the importance of feature selection and model complexity in achieving high prediction accuracy.
 
 # Introduction
